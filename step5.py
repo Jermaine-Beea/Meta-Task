@@ -1,3 +1,4 @@
+from step2 import Settings  # Import Settings that were configured in step2
 from step4 import nodes  
 from llama_index.core.llama_pack import download_llama_pack
 
