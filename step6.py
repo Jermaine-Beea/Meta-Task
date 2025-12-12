@@ -1,3 +1,5 @@
+import query_rewriting_pack
+
 def safe_rag_run(question, retries=3):
     """
     Run the RAG pipeline with basic retry logic.

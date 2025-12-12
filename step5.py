@@ -1,4 +1,4 @@
-from step4 import nodes
+from step4 import nodes  
 from llama_index.core.llama_pack import download_llama_pack
 
 # Download or load the Query Fusion pack
