@@ -1,5 +1,0 @@
-https://openrouter.ai/
-username: jebeeajhb024@student.wethinkcode.co.za
-
-API_KEY
-https://openrouter.ai/settings/keys
