@@ -1,0 +1,5 @@
+https://openrouter.ai/
+username: jebeeajhb024@student.wethinkcode.co.za
+
+API_KEY
+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
